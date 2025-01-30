@@ -2,6 +2,6 @@
 
 int main(){
     char *text = "Hello Git";
-    printf("%s",text);
+    printf("%s", text);
     return 0;
 }
